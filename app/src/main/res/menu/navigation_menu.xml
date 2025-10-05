@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_benefits"
+        android:title="Benefits"
+        android:icon="@drawable/ic_benefits" />
+
+    <item
+        android:id="@+id/menu_meditation"
+        android:title="Meditation"
+        android:icon="@drawable/ic_meditation" />
+
+    <item
+        android:id="@+id/menu_contact"
+        android:title="Contact"
+        android:icon="@drawable/ic_contact" />
+
+    <item
+        android:id="@+id/menu_join"
+        android:title="Join"
+        android:icon="@drawable/ic_join" />
+
+</menu>

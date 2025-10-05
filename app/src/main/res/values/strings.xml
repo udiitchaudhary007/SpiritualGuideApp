@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Spiritual Guide App</string>
+    <string name="course_image">Course Image</string>
+	<string name="open_drawer">Open Drawer</string>
+	<string name="close_drawer">Close Drawer</string>
+    
+    <!-- Add these if missing -->
+    <string name="buy_now">Buy Now</string>
+    <string name="view_details">View Details</string>
+    <string name="fee">Fee</string>
+    <string name="support">Support</string>
+    <string name="features">Features</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+</resources>
